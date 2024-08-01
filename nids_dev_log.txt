@@ -3,3 +3,4 @@ Added ICMP flood detection - 08/02/2024 10:27:23
 Added brute force attack detection - 08/02/2024 15:03:35
 Updated firewall event integration - 08/02/2024 20:37:30
 Improved packet processing efficiency - 08/01/2024 15:54:37
+Added SYN flood detection - 08/01/2024 15:12:16
