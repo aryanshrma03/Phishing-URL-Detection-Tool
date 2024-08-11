@@ -25,3 +25,4 @@ Updated firewall event integration - 08/13/2024 17:24:41
 Enhanced logging functionality - 08/13/2024 18:56:06
 Enhanced logging functionality - 08/13/2024 20:09:09
 Improved packet processing efficiency - 08/11/2024 14:31:44
+Improved threat intelligence handling - 08/11/2024 11:55:27
