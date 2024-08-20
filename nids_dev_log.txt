@@ -35,3 +35,4 @@ Enhanced network behavior analysis - 08/20/2024 19:47:33
 Added traffic anomaly scoring - 08/20/2024 22:40:50
 Enhanced scanner performance - 08/20/2024 22:40:02
 Added port scanning detection - 08/20/2024 14:33:37
+Added malicious IP detection - 08/20/2024 19:18:48
