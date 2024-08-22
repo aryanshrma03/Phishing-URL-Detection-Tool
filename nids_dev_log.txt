@@ -50,3 +50,4 @@ Added ICMP flood detection - 08/24/2024 16:17:52
 Added suspicious traffic detection - 08/24/2024 14:12:55
 Updated detection rule engine - 08/22/2024 21:51:03
 Enhanced detection sensitivity - 08/22/2024 22:45:38
+Improved network traffic monitoring - 08/22/2024 10:30:43
