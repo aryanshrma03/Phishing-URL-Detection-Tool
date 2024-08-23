@@ -59,3 +59,4 @@ Updated firewall event integration - 08/26/2024 22:58:12
 Added suspicious payload inspection - 08/26/2024 17:22:10
 Added ICMP flood detection - 08/26/2024 18:53:05
 Improved scanner stability - 08/23/2024 17:20:33
+Improved rule-based filtering - 08/23/2024 21:35:12
