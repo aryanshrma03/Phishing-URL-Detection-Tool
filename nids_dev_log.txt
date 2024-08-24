@@ -46,3 +46,4 @@ Improved suspicious session tracking - 08/21/2024 10:09:08
 Enhanced network behavior analysis - 08/21/2024 16:50:27
 Improved scanner stability - 08/24/2024 10:48:13
 Enhanced logging functionality - 08/24/2024 22:43:40
+Added ICMP flood detection - 08/24/2024 16:17:52
