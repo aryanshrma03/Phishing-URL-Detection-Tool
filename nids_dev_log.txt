@@ -85,3 +85,4 @@ Improved threat intelligence handling - 09/09/2024 19:28:56
 Improved rule-based filtering - 09/05/2024 21:02:12
 Improved rule-based filtering - 09/05/2024 10:49:58
 Updated monitoring dashboard - 09/05/2024 17:44:53
+Added malicious IP detection - 09/05/2024 14:46:51
