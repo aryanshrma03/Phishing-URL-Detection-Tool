@@ -81,3 +81,4 @@ Added DDoS activity analysis - 09/10/2024 17:05:01
 Improved detection accuracy - 09/10/2024 15:16:19
 Enhanced alert notification system - 09/09/2024 09:43:20
 Added traffic anomaly scoring - 09/09/2024 15:28:26
+Improved threat intelligence handling - 09/09/2024 19:28:56
