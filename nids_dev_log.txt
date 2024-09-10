@@ -77,3 +77,4 @@ Enhanced packet filtering logic - 08/29/2024 13:00:16
 Enhanced logging functionality - 08/29/2024 16:09:14
 Enhanced traffic visualization module - 08/29/2024 16:56:18
 Added brute force attack detection - 09/10/2024 21:26:53
+Added DDoS activity analysis - 09/10/2024 17:05:01
