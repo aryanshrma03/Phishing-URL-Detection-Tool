@@ -96,3 +96,4 @@ Improved threat intelligence handling - 09/17/2024 11:20:36
 Added suspicious payload inspection - 09/17/2024 21:30:48
 Updated network monitoring workflow - 09/17/2024 09:42:51
 Added unauthorized access detection - 09/17/2024 20:29:58
+Improved rule-based filtering - 09/17/2024 12:47:46
