@@ -93,3 +93,4 @@ Updated intrusion signature database - 09/07/2024 22:47:22
 Improved protocol classification - 09/07/2024 11:03:12
 Initialized packet sniffing engine - 09/07/2024 16:45:13
 Improved threat intelligence handling - 09/17/2024 11:20:36
+Added suspicious payload inspection - 09/17/2024 21:30:48
