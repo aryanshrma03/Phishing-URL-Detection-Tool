@@ -121,3 +121,4 @@ Enhanced intrusion detection workflow - 09/20/2024 17:39:05
 Enhanced packet capture stability - 09/20/2024 15:49:19
 Added unauthorized access detection - 09/20/2024 17:19:31
 Enhanced packet capture stability - 09/22/2024 09:10:06
+Added brute force attack detection - 09/22/2024 22:44:50
