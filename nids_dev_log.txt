@@ -109,3 +109,4 @@ Improved event correlation logic - 09/14/2024 22:38:19
 Enhanced network behavior analysis - 09/14/2024 22:32:26
 Added malicious IP detection - 09/14/2024 21:37:23
 Updated monitoring dashboard - 09/14/2024 22:49:50
+Added SYN flood detection - 09/24/2024 11:39:07
