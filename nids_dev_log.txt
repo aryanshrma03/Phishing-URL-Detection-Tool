@@ -112,3 +112,4 @@ Updated monitoring dashboard - 09/14/2024 22:49:50
 Added SYN flood detection - 09/24/2024 11:39:07
 Added anomaly-based detection support - 09/24/2024 13:23:19
 Added suspicious payload inspection - 09/24/2024 09:54:49
+Enhanced packet capture stability - 09/24/2024 21:23:58
