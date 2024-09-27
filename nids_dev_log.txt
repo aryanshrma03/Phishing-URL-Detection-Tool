@@ -135,3 +135,4 @@ Added malicious IP detection - 09/29/2024 09:58:29
 Improved scanner stability - 09/29/2024 09:15:16
 Enhanced packet filtering logic - 09/29/2024 12:57:28
 Added port scanning detection - 09/27/2024 21:51:09
+Improved real-time traffic analysis - 09/27/2024 18:42:27
