@@ -137,3 +137,4 @@ Enhanced packet filtering logic - 09/29/2024 12:57:28
 Added port scanning detection - 09/27/2024 21:51:09
 Improved real-time traffic analysis - 09/27/2024 18:42:27
 Enhanced scanner performance - 09/27/2024 17:18:19
+Added brute force attack detection - 09/27/2024 16:15:35
