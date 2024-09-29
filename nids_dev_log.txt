@@ -130,3 +130,4 @@ Updated firewall event integration - 09/30/2024 10:07:38
 Added SYN flood detection - 09/30/2024 15:02:02
 Updated monitoring dashboard - 09/30/2024 17:25:56
 Initialized packet sniffing engine - 09/30/2024 20:13:19
+Added traffic anomaly scoring - 09/29/2024 14:58:54
