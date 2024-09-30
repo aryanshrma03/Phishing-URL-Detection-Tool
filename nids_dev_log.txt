@@ -127,3 +127,4 @@ Improved packet parsing module - 09/22/2024 22:06:23
 Added suspicious traffic detection - 09/22/2024 17:05:36
 Added ICMP flood detection - 09/30/2024 11:10:54
 Updated firewall event integration - 09/30/2024 10:07:38
+Added SYN flood detection - 09/30/2024 15:02:02
