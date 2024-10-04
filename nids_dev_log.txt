@@ -140,3 +140,4 @@ Enhanced scanner performance - 09/27/2024 17:18:19
 Added brute force attack detection - 09/27/2024 16:15:35
 Improved network traffic monitoring - 09/27/2024 22:22:16
 Enhanced packet filtering logic - 10/04/2024 11:46:02
+Added port scanning detection - 10/04/2024 18:31:19
