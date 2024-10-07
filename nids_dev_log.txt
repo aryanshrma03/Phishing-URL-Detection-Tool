@@ -152,3 +152,4 @@ Updated firewall event integration - 10/07/2024 20:30:35
 Improved protocol classification - 10/07/2024 20:15:39
 Enhanced real-time alert system - 10/07/2024 17:27:57
 Improved real-time traffic analysis - 10/07/2024 16:45:49
+Enhanced packet capture stability - 10/07/2024 19:22:36
