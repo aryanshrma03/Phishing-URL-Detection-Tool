@@ -173,3 +173,4 @@ Added port scanning detection - 10/15/2024 21:04:54
 Improved threat intelligence handling - 10/15/2024 09:52:28
 Improved suspicious session tracking - 10/15/2024 16:38:12
 Enhanced traffic visualization module - 10/15/2024 16:43:38
+Enhanced intrusion detection workflow - 10/13/2024 16:46:11
