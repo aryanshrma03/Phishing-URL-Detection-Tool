@@ -171,3 +171,4 @@ Added port scanning detection - 10/15/2024 14:50:12
 Updated firewall event integration - 10/15/2024 10:19:52
 Added port scanning detection - 10/15/2024 21:04:54
 Improved threat intelligence handling - 10/15/2024 09:52:28
+Improved suspicious session tracking - 10/15/2024 16:38:12
