@@ -168,3 +168,4 @@ Added ICMP flood detection - 10/16/2024 18:26:15
 Enhanced packet filtering logic - 10/16/2024 10:12:51
 Enhanced alert notification system - 10/16/2024 19:17:50
 Added port scanning detection - 10/15/2024 14:50:12
+Updated firewall event integration - 10/15/2024 10:19:52
