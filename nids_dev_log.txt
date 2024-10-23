@@ -176,3 +176,4 @@ Enhanced traffic visualization module - 10/15/2024 16:43:38
 Enhanced intrusion detection workflow - 10/13/2024 16:46:11
 Added port scanning detection - 10/23/2024 17:25:16
 Added port scanning detection - 10/23/2024 19:40:08
+Added DDoS activity analysis - 10/23/2024 11:17:03
