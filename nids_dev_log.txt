@@ -200,3 +200,4 @@ Enhanced detection sensitivity - 10/26/2024 13:15:13
 Added malicious IP detection - 10/26/2024 16:33:10
 Added port scanning detection - 10/26/2024 16:29:57
 Added unauthorized access detection - 10/26/2024 20:36:52
+Updated firewall event integration - 10/26/2024 21:05:43
