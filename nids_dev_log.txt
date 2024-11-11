@@ -232,3 +232,4 @@ Improved protocol classification - 11/09/2024 18:27:41
 Improved protocol classification - 11/09/2024 13:47:31
 Added unauthorized access detection - 11/11/2024 20:02:44
 Enhanced real-time alert system - 11/11/2024 17:07:25
+Added anomaly-based detection support - 11/11/2024 09:00:46
