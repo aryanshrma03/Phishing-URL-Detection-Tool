@@ -239,3 +239,4 @@ Enhanced monitoring engine reliability - 11/12/2024 17:17:16
 Improved protocol classification - 11/12/2024 16:10:44
 Improved suspicious session tracking - 11/14/2024 21:17:23
 Improved threat intelligence handling - 11/14/2024 20:36:32
+Added SYN flood detection - 11/14/2024 13:34:46
