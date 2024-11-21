@@ -263,3 +263,4 @@ Initialized packet sniffing engine - 11/24/2024 22:30:15
 Added SYN flood detection - 11/21/2024 19:26:54
 Added ICMP flood detection - 11/21/2024 20:17:51
 Enhanced detection sensitivity - 11/21/2024 16:13:58
+Added SYN flood detection - 11/21/2024 13:27:33
