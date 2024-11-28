@@ -270,3 +270,4 @@ Added traffic anomaly scoring - 11/26/2024 16:22:25
 Updated detection rule engine - 11/26/2024 17:09:26
 Improved real-time traffic analysis - 11/26/2024 14:54:23
 Improved TCP packet analysis - 11/28/2024 21:51:17
+Initialized packet sniffing engine - 11/28/2024 11:13:45
