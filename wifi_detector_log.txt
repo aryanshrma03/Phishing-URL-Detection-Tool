@@ -104,3 +104,4 @@ Enhanced packet processing stability - 01/21/2025 14:20:43
 Enhanced channel hopping support - 12/07/2024 18:34:07
 Updated threat detection rules - 12/07/2024 10:42:22
 Improved real-time packet capture - 12/07/2024 12:52:37
+Improved scanner initialization - 12/03/2024 14:20:53
