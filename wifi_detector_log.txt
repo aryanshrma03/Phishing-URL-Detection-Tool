@@ -110,3 +110,4 @@ Updated deauth detection heuristics - 12/03/2024 11:39:22
 Fixed packet capture inconsistencies - 12/03/2024 21:55:32
 Improved packet classification - 12/06/2024 18:43:24
 Updated wireless adapter compatibility - 12/06/2024 13:40:25
+Enhanced packet processing stability - 12/06/2024 11:11:06
