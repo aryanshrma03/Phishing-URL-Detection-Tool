@@ -101,3 +101,4 @@ Enhanced scanner performance - 01/19/2025 16:19:03
 Updated wireless adapter compatibility - 01/19/2025 12:30:32
 Improved scanner initialization - 01/21/2025 11:05:10
 Enhanced packet processing stability - 01/21/2025 14:20:43
+Enhanced channel hopping support - 12/07/2024 18:34:07
