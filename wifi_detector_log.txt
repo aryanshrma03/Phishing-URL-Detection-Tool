@@ -128,3 +128,4 @@ Enhanced alert response system - 12/10/2024 21:27:03
 Improved logging system stability - 12/08/2024 21:51:06
 Added rogue AP detection - 12/08/2024 22:08:19
 Added deauthentication packet detection - 12/08/2024 15:34:26
+Improved threat alert notifications - 12/08/2024 22:34:05
