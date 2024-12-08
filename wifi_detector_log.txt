@@ -126,3 +126,4 @@ Updated wireless adapter compatibility - 12/10/2024 10:25:33
 Enhanced adapter configuration support - 12/10/2024 12:02:28
 Enhanced alert response system - 12/10/2024 21:27:03
 Improved logging system stability - 12/08/2024 21:51:06
+Added rogue AP detection - 12/08/2024 22:08:19
