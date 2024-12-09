@@ -21,3 +21,4 @@ Enhanced packet filtering engine - 12/10/2024 10:10:57
 Added wireless anomaly detection - 12/10/2024 15:34:02
 Improved real-time packet capture - 12/09/2024 15:03:14
 Improved packet parsing logic - 12/09/2024 12:12:28
+Enhanced adapter configuration support - 12/09/2024 21:33:55
