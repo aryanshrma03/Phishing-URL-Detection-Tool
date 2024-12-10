@@ -17,3 +17,4 @@ Updated wireless adapter compatibility - 12/12/2024 14:15:07
 Enhanced packet filtering engine - 12/12/2024 11:35:07
 Added rogue AP detection - 12/10/2024 17:42:18
 Added rogue AP detection - 12/10/2024 17:32:06
+Enhanced packet filtering engine - 12/10/2024 10:10:57
