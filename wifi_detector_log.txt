@@ -123,3 +123,4 @@ Improved wireless traffic analysis - 12/12/2024 20:17:35
 Improved packet classification - 12/10/2024 12:28:54
 Improved attack pattern analysis - 12/10/2024 17:37:06
 Updated wireless adapter compatibility - 12/10/2024 10:25:33
+Enhanced adapter configuration support - 12/10/2024 12:02:28
