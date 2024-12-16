@@ -137,3 +137,4 @@ Added deauthentication packet detection - 12/15/2024 20:21:21
 Improved logging system stability - 12/16/2024 20:45:04
 Improved packet classification - 12/16/2024 14:04:30
 Improved attack pattern analysis - 12/16/2024 14:50:42
+Added deauthentication packet detection - 12/16/2024 21:34:00
