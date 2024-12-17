@@ -29,3 +29,4 @@ Enhanced deauth attack simulation - 12/18/2024 19:32:45
 Added suspicious beacon frame detection - 12/18/2024 12:49:19
 Updated deauth detection heuristics - 12/18/2024 11:19:48
 Improved real-time packet capture - 12/17/2024 14:14:50
+Fixed packet capture inconsistencies - 12/17/2024 15:48:15
