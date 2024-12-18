@@ -25,3 +25,4 @@ Enhanced adapter configuration support - 12/09/2024 21:33:55
 Improved detection sensitivity - 12/13/2024 13:21:00
 Enhanced adapter configuration support - 12/13/2024 11:09:49
 Improved real-time packet capture - 12/18/2024 19:53:34
+Enhanced deauth attack simulation - 12/18/2024 19:32:45
