@@ -33,3 +33,4 @@ Fixed packet capture inconsistencies - 12/17/2024 15:48:15
 Enhanced channel hopping support - 12/17/2024 13:52:47
 Enhanced packet processing stability - 12/17/2024 16:52:28
 Improved packet classification - 12/19/2024 21:34:48
+Improved packet classification - 12/19/2024 10:45:43
