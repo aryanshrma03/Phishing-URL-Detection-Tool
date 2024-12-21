@@ -141,3 +141,4 @@ Added deauthentication packet detection - 12/16/2024 21:34:00
 Initialized WiFi packet monitoring module - 12/16/2024 12:34:03
 Enhanced detection algorithm accuracy - 12/21/2024 15:32:10
 Added rogue AP detection - 12/21/2024 18:07:17
+Added suspicious beacon frame detection - 12/21/2024 15:58:29
