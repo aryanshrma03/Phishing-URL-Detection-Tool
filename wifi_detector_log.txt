@@ -35,3 +35,4 @@ Enhanced packet processing stability - 12/17/2024 16:52:28
 Improved packet classification - 12/19/2024 21:34:48
 Improved packet classification - 12/19/2024 10:45:43
 Improved threat alert notifications - 12/19/2024 20:10:17
+Improved wireless traffic analysis - 12/23/2024 18:12:00
