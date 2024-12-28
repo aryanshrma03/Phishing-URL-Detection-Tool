@@ -44,3 +44,4 @@ Improved wireless traffic analysis - 12/27/2024 12:46:19
 Added wireless anomaly detection - 12/27/2024 11:40:03
 Enhanced access point monitoring - 12/27/2024 20:21:31
 Added deauthentication packet detection - 12/28/2024 17:19:47
+Added suspicious beacon frame detection - 12/28/2024 19:17:44
