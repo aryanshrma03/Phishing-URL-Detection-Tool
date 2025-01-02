@@ -58,3 +58,4 @@ Improved attack pattern analysis - 01/03/2025 17:19:37
 Added suspicious beacon frame detection - 01/03/2025 14:53:18
 Enhanced deauth attack simulation - 01/03/2025 20:12:25
 Updated packet inspection module - 01/02/2025 11:57:21
+Updated packet inspection module - 01/02/2025 21:47:21
