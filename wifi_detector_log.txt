@@ -160,3 +160,4 @@ Added suspicious beacon frame detection - 12/31/2024 15:39:54
 Improved scanning efficiency - 12/31/2024 16:45:54
 Initialized WiFi packet monitoring module - 01/04/2025 13:08:16
 Enhanced access point monitoring - 01/04/2025 15:31:44
+Enhanced network traffic visualization - 01/04/2025 21:14:04
