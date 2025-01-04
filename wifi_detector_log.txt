@@ -49,3 +49,4 @@ Improved scanning efficiency - 12/28/2024 18:25:05
 Enhanced scanner performance - 12/25/2024 17:48:43
 Improved monitoring service reliability - 12/25/2024 16:23:19
 Added suspicious packet logging - 01/04/2025 20:24:51
+Enhanced channel hopping support - 01/04/2025 19:53:01
