@@ -64,3 +64,4 @@ Added traffic anomaly scoring - 01/02/2025 18:11:43
 Enhanced wireless monitoring engine - 01/02/2025 17:21:36
 Improved wireless traffic analysis - 01/05/2025 21:19:18
 Updated monitoring dashboard - 01/05/2025 14:17:33
+Improved packet classification - 01/05/2025 22:29:37
