@@ -168,3 +168,4 @@ Improved wireless traffic analysis - 12/30/2024 12:26:14
 Added fake access point detection - 01/08/2025 10:05:47
 Enhanced network traffic visualization - 01/08/2025 17:45:14
 Added fake access point detection - 01/08/2025 11:14:56
+Enhanced packet filtering engine - 01/08/2025 19:28:34
