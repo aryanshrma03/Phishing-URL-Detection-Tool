@@ -178,3 +178,4 @@ Updated monitoring dashboard - 01/09/2025 13:39:51
 Enhanced adapter configuration support - 01/09/2025 16:28:09
 Enhanced deauth attack simulation - 01/09/2025 17:23:33
 Enhanced access point monitoring - 01/09/2025 11:58:56
+Enhanced packet filtering engine - 01/09/2025 13:26:38
