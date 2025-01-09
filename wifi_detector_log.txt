@@ -176,3 +176,4 @@ Added fake access point detection - 01/06/2025 20:36:48
 Enhanced adapter configuration support - 01/06/2025 11:17:28
 Updated monitoring dashboard - 01/09/2025 13:39:51
 Enhanced adapter configuration support - 01/09/2025 16:28:09
+Enhanced deauth attack simulation - 01/09/2025 17:23:33
