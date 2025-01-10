@@ -75,3 +75,4 @@ Enhanced packet filtering engine - 01/07/2025 12:58:12
 Enhanced deauth attack simulation - 01/10/2025 21:14:51
 Updated monitoring dashboard - 01/10/2025 14:58:36
 Added MAC address monitoring - 01/10/2025 13:57:16
+Improved packet parsing logic - 01/10/2025 17:42:58
