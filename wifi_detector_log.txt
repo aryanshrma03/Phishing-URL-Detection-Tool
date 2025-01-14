@@ -79,3 +79,4 @@ Improved packet parsing logic - 01/10/2025 17:42:58
 Improved monitoring service reliability - 01/11/2025 22:14:02
 Added MAC address monitoring - 01/11/2025 19:30:18
 Enhanced access point monitoring - 01/11/2025 22:33:30
+Improved threat alert notifications - 01/14/2025 13:35:23
