@@ -187,3 +187,4 @@ Improved logging system stability - 01/12/2025 21:31:42
 Updated threat detection rules - 01/12/2025 14:19:11
 Added suspicious beacon frame detection - 01/12/2025 15:36:27
 Improved monitoring service reliability - 01/12/2025 13:55:31
+Improved threat alert notifications - 01/15/2025 21:06:48
