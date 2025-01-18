@@ -84,3 +84,4 @@ Initialized WiFi packet monitoring module - 01/14/2025 11:47:08
 Improved detection sensitivity - 01/14/2025 12:09:18
 Added fake access point detection - 01/14/2025 10:32:03
 Improved packet classification - 01/18/2025 11:12:29
+Improved real-time packet capture - 01/18/2025 19:02:14
