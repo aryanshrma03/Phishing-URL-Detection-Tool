@@ -194,3 +194,4 @@ Improved threat alert notifications - 01/23/2025 17:38:03
 Updated deauth detection heuristics - 01/23/2025 18:09:57
 Improved scanning efficiency - 01/23/2025 22:14:38
 Improved monitoring service reliability - 01/23/2025 19:43:30
+Fixed packet capture inconsistencies - 01/20/2025 17:47:45
