@@ -190,3 +190,4 @@ Improved monitoring service reliability - 01/12/2025 13:55:31
 Improved threat alert notifications - 01/15/2025 21:06:48
 Updated wireless adapter compatibility - 01/15/2025 22:34:42
 Enhanced network traffic visualization - 01/15/2025 12:51:19
+Improved threat alert notifications - 01/23/2025 17:38:03
