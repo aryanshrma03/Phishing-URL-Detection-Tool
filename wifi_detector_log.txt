@@ -203,3 +203,4 @@ Improved signal strength analysis - 01/24/2025 11:16:53
 Fixed packet capture inconsistencies - 01/24/2025 18:42:13
 Improved signal strength analysis - 01/24/2025 19:50:40
 Improved real-time packet capture - 01/26/2025 17:27:40
+Improved packet classification - 01/26/2025 21:39:36
