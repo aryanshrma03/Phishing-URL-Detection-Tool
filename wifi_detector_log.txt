@@ -216,3 +216,4 @@ Improved threat alert notifications - 01/27/2025 12:41:13
 Enhanced packet processing stability - 01/29/2025 16:26:07
 Enhanced wireless monitoring engine - 02/03/2025 22:17:31
 Enhanced scanner performance - 02/03/2025 15:03:01
+Updated wireless adapter compatibility - 02/03/2025 12:54:48
