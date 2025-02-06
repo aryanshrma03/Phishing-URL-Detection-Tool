@@ -223,3 +223,4 @@ Improved real-time packet capture - 02/05/2025 11:54:23
 Improved wireless traffic analysis - 02/05/2025 19:28:14
 Enhanced access point monitoring - 02/05/2025 14:09:49
 Added wireless anomaly detection - 02/06/2025 15:53:14
+Enhanced network traffic visualization - 02/06/2025 11:34:16
