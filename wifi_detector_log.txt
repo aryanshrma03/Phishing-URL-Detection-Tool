@@ -228,3 +228,4 @@ Improved wireless traffic analysis - 02/06/2025 13:32:25
 Updated monitoring dashboard - 02/06/2025 12:58:29
 Enhanced wireless monitoring engine - 02/07/2025 11:08:04
 Updated deauth detection heuristics - 02/07/2025 14:08:57
+Improved packet parsing logic - 02/07/2025 19:14:01
