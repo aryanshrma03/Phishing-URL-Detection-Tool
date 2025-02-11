@@ -232,3 +232,4 @@ Improved packet parsing logic - 02/07/2025 19:14:01
 Enhanced channel hopping support - 02/11/2025 21:27:52
 Enhanced access point monitoring - 02/11/2025 22:04:16
 Enhanced access point monitoring - 02/11/2025 10:12:07
+Added real-time attack alerts - 02/11/2025 15:19:35
