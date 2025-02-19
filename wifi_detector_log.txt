@@ -248,3 +248,4 @@ Improved threat alert notifications - 02/18/2025 12:29:13
 Added rogue AP detection - 02/18/2025 10:55:40
 Improved monitoring service reliability - 02/19/2025 20:38:15
 Initialized WiFi packet monitoring module - 02/19/2025 22:14:45
+Enhanced channel hopping support - 02/19/2025 22:27:12
