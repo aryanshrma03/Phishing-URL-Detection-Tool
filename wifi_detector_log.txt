@@ -252,3 +252,4 @@ Enhanced channel hopping support - 02/19/2025 22:27:12
 Updated wireless adapter compatibility - 02/19/2025 18:47:10
 Improved threat alert notifications - 02/19/2025 14:30:51
 Improved attack pattern analysis - 02/20/2025 16:43:30
+Added MAC address monitoring - 02/23/2025 17:02:27
