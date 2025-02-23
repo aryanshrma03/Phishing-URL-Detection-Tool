@@ -254,3 +254,4 @@ Improved threat alert notifications - 02/19/2025 14:30:51
 Improved attack pattern analysis - 02/20/2025 16:43:30
 Added MAC address monitoring - 02/23/2025 17:02:27
 Enhanced wireless monitoring engine - 02/23/2025 16:00:13
+Added wireless anomaly detection - 02/23/2025 10:38:47
