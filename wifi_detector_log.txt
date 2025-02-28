@@ -261,3 +261,4 @@ Enhanced wireless analysis workflow - 02/28/2025 20:10:55
 Improved logging system stability - 02/28/2025 18:08:46
 Enhanced channel hopping support - 02/28/2025 13:45:25
 Improved packet classification - 02/28/2025 18:37:39
+Updated deauth detection heuristics - 02/28/2025 15:26:24
