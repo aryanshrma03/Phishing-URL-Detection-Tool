@@ -269,3 +269,4 @@ Added wireless anomaly detection - 03/04/2025 19:24:09
 Improved scanner initialization - 03/04/2025 12:08:40
 Initialized WiFi packet monitoring module - 03/04/2025 21:41:14
 Updated packet inspection module - 03/04/2025 13:42:29
+Added suspicious packet logging - 03/02/2025 13:00:42
