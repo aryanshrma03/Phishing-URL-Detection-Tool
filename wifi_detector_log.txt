@@ -265,3 +265,4 @@ Updated deauth detection heuristics - 02/28/2025 15:26:24
 Enhanced channel hopping support - 02/27/2025 15:15:32
 Enhanced wireless monitoring engine - 02/27/2025 16:35:09
 Added traffic anomaly scoring - 02/27/2025 18:33:26
+Added wireless anomaly detection - 03/04/2025 19:24:09
