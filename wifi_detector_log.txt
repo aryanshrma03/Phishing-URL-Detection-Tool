@@ -293,3 +293,4 @@ Enhanced packet filtering engine - 03/12/2025 18:49:04
 Improved detection sensitivity - 03/12/2025 12:08:37
 Improved logging system stability - 03/20/2025 20:39:28
 Improved detection sensitivity - 03/20/2025 11:50:54
+Fixed packet capture inconsistencies - 03/20/2025 14:32:09
