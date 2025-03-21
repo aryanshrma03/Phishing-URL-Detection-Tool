@@ -296,3 +296,4 @@ Improved detection sensitivity - 03/20/2025 11:50:54
 Fixed packet capture inconsistencies - 03/20/2025 14:32:09
 Added wireless anomaly detection - 03/20/2025 14:32:52
 Added suspicious packet logging - 03/21/2025 11:21:33
+Updated monitoring dashboard - 03/21/2025 16:32:53
