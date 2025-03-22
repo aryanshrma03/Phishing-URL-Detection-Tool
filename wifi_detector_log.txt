@@ -301,3 +301,4 @@ Improved scanner initialization - 03/21/2025 17:42:03
 Improved detection sensitivity - 03/22/2025 13:57:26
 Initialized WiFi packet monitoring module - 03/22/2025 15:16:53
 Added fake access point detection - 03/22/2025 20:10:08
+Improved signal strength analysis - 03/22/2025 20:10:39
