@@ -298,3 +298,4 @@ Added wireless anomaly detection - 03/20/2025 14:32:52
 Added suspicious packet logging - 03/21/2025 11:21:33
 Updated monitoring dashboard - 03/21/2025 16:32:53
 Improved scanner initialization - 03/21/2025 17:42:03
+Improved detection sensitivity - 03/22/2025 13:57:26
