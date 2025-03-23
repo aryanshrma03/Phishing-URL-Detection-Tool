@@ -304,3 +304,4 @@ Added fake access point detection - 03/22/2025 20:10:08
 Improved signal strength analysis - 03/22/2025 20:10:39
 Updated threat detection rules - 03/23/2025 22:30:33
 Updated threat detection rules - 03/23/2025 14:08:00
+Enhanced wireless monitoring engine - 03/23/2025 14:20:48
