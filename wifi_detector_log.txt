@@ -311,3 +311,4 @@ Added deauthentication packet detection - 03/29/2025 11:47:38
 Improved threat alert notifications - 03/28/2025 13:21:13
 Enhanced packet processing stability - 03/28/2025 16:55:05
 Improved threat alert notifications - 03/28/2025 18:22:49
+Updated deauth detection heuristics - 03/28/2025 15:30:08
