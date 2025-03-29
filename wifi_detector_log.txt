@@ -306,3 +306,4 @@ Updated threat detection rules - 03/23/2025 22:30:33
 Updated threat detection rules - 03/23/2025 14:08:00
 Enhanced wireless monitoring engine - 03/23/2025 14:20:48
 Enhanced packet processing stability - 03/29/2025 14:51:33
+Improved scanner initialization - 03/29/2025 17:09:23
