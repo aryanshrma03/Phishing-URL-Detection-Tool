@@ -314,3 +314,4 @@ Improved threat alert notifications - 03/28/2025 18:22:49
 Updated deauth detection heuristics - 03/28/2025 15:30:08
 Added wireless anomaly detection - 03/28/2025 15:55:39
 Improved threat alert notifications - 03/30/2025 17:08:45
+Added real-time attack alerts - 03/30/2025 22:25:09
