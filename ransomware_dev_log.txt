@@ -7,3 +7,4 @@ Improved ransomware activity scoring - 04/03/2025 18:03:14
 Improved system resource monitoring - 04/03/2025 13:52:54
 Improved detection threshold calibration - 04/03/2025 21:30:21
 Updated malware behavior dataset - 04/02/2025 09:34:04
+Enhanced threat intelligence integration - 04/02/2025 20:35:50
