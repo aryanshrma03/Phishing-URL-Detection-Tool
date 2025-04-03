@@ -5,3 +5,4 @@ Enhanced heuristic analysis module - 04/07/2025 11:18:01
 Added file integrity verification - 04/07/2025 18:13:31
 Improved ransomware activity scoring - 04/03/2025 18:03:14
 Improved system resource monitoring - 04/03/2025 13:52:54
+Improved detection threshold calibration - 04/03/2025 21:30:21
