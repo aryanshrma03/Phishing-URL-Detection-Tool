@@ -11,3 +11,4 @@ Enhanced threat intelligence integration - 04/02/2025 20:35:50
 Fixed false positive detection issue - 04/02/2025 19:21:30
 Optimized detection workflow - 04/06/2025 20:53:44
 Enhanced GUI dashboard responsiveness - 04/06/2025 15:33:08
+Updated scanner configuration handling - 04/06/2025 22:52:37
