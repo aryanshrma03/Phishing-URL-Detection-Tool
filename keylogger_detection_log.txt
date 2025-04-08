@@ -18,3 +18,4 @@ Enhanced monitoring engine reliability - 04/05/2025 17:00:17
 Enhanced background service monitoring - 04/05/2025 19:06:33
 Added unauthorized keystroke monitoring detection - 04/08/2025 15:49:55
 Improved memory inspection workflow - 04/08/2025 13:08:10
+Added stealth keylogger detection - 04/08/2025 15:00:25
