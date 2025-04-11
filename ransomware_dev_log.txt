@@ -54,3 +54,4 @@ Enhanced process monitoring engine - 04/14/2025 14:11:09
 Updated behavioral detection model - 04/14/2025 13:02:51
 Enhanced process monitoring engine - 04/14/2025 10:25:12
 Updated behavioral detection model - 04/14/2025 10:05:32
+Improved ransomware activity scoring - 04/11/2025 11:50:07
