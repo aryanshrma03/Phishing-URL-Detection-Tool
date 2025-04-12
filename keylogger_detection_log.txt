@@ -23,3 +23,4 @@ Improved scanner performance - 04/09/2025 11:25:49
 Added stealth keylogger detection - 04/09/2025 09:14:12
 Enhanced detection rule engine - 04/09/2025 13:45:49
 Improved threat classification workflow - 04/09/2025 14:32:29
+Improved memory inspection workflow - 04/12/2025 18:35:14
