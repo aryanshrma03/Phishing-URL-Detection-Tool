@@ -29,3 +29,4 @@ Enhanced detection sensitivity - 04/12/2025 16:13:37
 Improved logging functionality - 04/12/2025 18:42:22
 Added stealth keylogger detection - 04/13/2025 10:10:04
 Added suspicious DLL injection detection - 04/13/2025 17:57:12
+Enhanced keyboard event monitoring - 04/13/2025 11:09:39
