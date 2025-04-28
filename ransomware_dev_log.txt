@@ -97,3 +97,4 @@ Enhanced ransomware emulation workflow - 04/22/2025 11:32:23
 Fixed minor monitoring inconsistencies - 04/26/2025 14:35:22
 Added suspicious process classifier - 04/26/2025 12:24:35
 Improved process activity tracking - 04/26/2025 13:07:49
+Updated scanner configuration handling - 04/28/2025 10:52:31
