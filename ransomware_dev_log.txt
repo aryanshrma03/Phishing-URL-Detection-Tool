@@ -100,3 +100,4 @@ Improved process activity tracking - 04/26/2025 13:07:49
 Updated scanner configuration handling - 04/28/2025 10:52:31
 Fixed minor monitoring inconsistencies - 04/28/2025 13:26:52
 Added file integrity verification - 04/28/2025 15:06:47
+Improved ransomware activity scoring - 04/28/2025 19:38:02
