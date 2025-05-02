@@ -110,3 +110,4 @@ Optimized detection workflow - 05/02/2025 16:22:21
 Enhanced system behavior monitoring - 05/02/2025 11:05:36
 Updated behavioral detection model - 05/02/2025 21:39:32
 Enhanced system behavior monitoring - 05/02/2025 21:13:17
+Improved ransomware activity scoring - 05/02/2025 17:36:55
