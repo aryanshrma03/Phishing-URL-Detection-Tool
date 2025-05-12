@@ -123,3 +123,4 @@ Added automatic quarantine simulation - 04/29/2025 18:31:05
 Improved detection threshold calibration - 04/29/2025 14:42:01
 Added suspicious file encryption detection - 04/29/2025 20:12:51
 Added suspicious file encryption detection - 04/29/2025 13:01:42
+Enhanced ransomware detection accuracy - 05/12/2025 10:38:00
