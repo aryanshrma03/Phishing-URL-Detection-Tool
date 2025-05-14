@@ -139,3 +139,4 @@ Added encrypted file pattern analysis - 05/07/2025 14:42:15
 Improved anomaly detection engine - 05/07/2025 15:46:27
 Enhanced GUI dashboard responsiveness - 05/07/2025 11:33:53
 Improved anomaly detection engine - 05/14/2025 09:30:08
+Added suspicious extension detection - 05/14/2025 12:27:57
