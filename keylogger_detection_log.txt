@@ -90,3 +90,4 @@ Improved scanner performance - 05/16/2025 11:46:04
 Added registry persistence analysis - 05/16/2025 21:58:33
 Improved suspicious behavior analysis - 05/16/2025 11:15:55
 Enhanced monitoring engine reliability - 05/16/2025 18:31:39
+Improved detection accuracy - 05/19/2025 09:08:26
