@@ -120,3 +120,4 @@ Added registry persistence analysis - 05/31/2025 17:57:00
 Fixed minor monitoring inconsistencies - 05/31/2025 17:58:11
 Added real-time threat alerts - 05/31/2025 12:16:05
 Added suspicious DLL injection detection - 05/27/2025 14:10:01
+Added hidden process detection - 05/27/2025 15:47:04
