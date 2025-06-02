@@ -113,3 +113,4 @@ Enhanced process tracking stability - 05/23/2025 16:37:35
 Added suspicious DLL injection detection - 06/02/2025 10:42:58
 Enhanced monitoring engine reliability - 06/02/2025 17:39:41
 Added stealth keylogger detection - 06/02/2025 11:20:25
+Added malicious activity scoring - 06/02/2025 18:01:35
