@@ -133,3 +133,4 @@ Added API hook inspection support - 06/07/2025 15:17:09
 Improved suspicious behavior analysis - 06/05/2025 13:14:58
 Initialized keylogger detection engine - 06/05/2025 20:30:08
 Improved scanner initialization - 06/05/2025 18:06:51
+Enhanced detection sensitivity - 06/05/2025 19:43:47
