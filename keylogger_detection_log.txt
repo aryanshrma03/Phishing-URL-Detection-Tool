@@ -129,3 +129,4 @@ Added real-time threat alerts - 06/07/2025 16:26:34
 Improved scanner initialization - 06/07/2025 15:28:36
 Enhanced background activity scanning - 06/07/2025 19:27:12
 Enhanced system behavior analysis - 06/07/2025 20:41:41
+Added API hook inspection support - 06/07/2025 15:17:09
