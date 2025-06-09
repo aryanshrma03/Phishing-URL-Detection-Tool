@@ -123,3 +123,4 @@ Added suspicious DLL injection detection - 05/27/2025 14:10:01
 Added hidden process detection - 05/27/2025 15:47:04
 Added suspicious process monitoring - 05/27/2025 10:48:26
 Enhanced detection stability - 06/09/2025 16:49:27
+Enhanced monitoring dashboard - 06/09/2025 17:06:36
