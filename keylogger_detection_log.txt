@@ -147,3 +147,4 @@ Added registry persistence analysis - 06/16/2025 11:53:45
 Updated heuristic analysis module - 06/16/2025 21:26:39
 Improved threat classification workflow - 06/16/2025 14:48:44
 Initialized keylogger detection engine - 06/12/2025 19:27:26
+Improved suspicious behavior analysis - 06/12/2025 12:56:15
