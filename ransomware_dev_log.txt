@@ -202,3 +202,4 @@ Updated scanner configuration handling - 06/09/2025 17:13:29
 Improved event logging functionality - 06/09/2025 13:26:05
 Improved real-time file activity tracking - 06/09/2025 15:48:55
 Improved real-time file activity tracking - 06/09/2025 15:31:09
+Added suspicious extension detection - 06/15/2025 21:28:31
