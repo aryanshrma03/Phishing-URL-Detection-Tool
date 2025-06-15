@@ -151,3 +151,4 @@ Improved suspicious behavior analysis - 06/12/2025 12:56:15
 Added malicious activity scoring - 06/12/2025 15:08:47
 Enhanced detection sensitivity - 06/12/2025 11:42:56
 Improved scanner initialization - 06/12/2025 11:08:44
+Added suspicious DLL injection detection - 06/15/2025 13:55:33
