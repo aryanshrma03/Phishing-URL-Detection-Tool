@@ -156,3 +156,4 @@ Improved real-time threat monitoring - 06/15/2025 22:10:25
 Improved scanner performance - 06/18/2025 22:05:17
 Added unauthorized keystroke monitoring detection - 06/18/2025 14:48:37
 Improved threat classification workflow - 06/18/2025 18:29:46
+Added stealth keylogger detection - 06/18/2025 11:13:33
