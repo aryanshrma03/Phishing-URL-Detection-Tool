@@ -160,3 +160,4 @@ Added stealth keylogger detection - 06/18/2025 11:13:33
 Added startup persistence detection - 06/18/2025 21:25:28
 Improved threat classification workflow - 06/21/2025 18:47:02
 Added hidden process detection - 06/21/2025 09:15:53
+Added real-time threat alerts - 06/21/2025 15:38:29
