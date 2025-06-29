@@ -233,3 +233,4 @@ Updated malware behavior dataset - 06/26/2025 16:02:04
 Enhanced ransomware detection accuracy - 06/26/2025 21:50:42
 Enhanced GUI dashboard responsiveness - 06/29/2025 15:00:11
 Updated scanner configuration handling - 06/29/2025 15:44:17
+Updated behavioral detection model - 06/29/2025 15:50:02
