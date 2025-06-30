@@ -173,3 +173,4 @@ Enhanced monitoring dashboard - 06/28/2025 14:32:50
 Enhanced detection rule engine - 06/30/2025 12:32:11
 Added API hook inspection support - 06/30/2025 13:18:20
 Updated heuristic analysis module - 06/30/2025 21:47:46
+Added registry persistence analysis - 06/30/2025 11:54:57
