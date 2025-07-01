@@ -191,3 +191,4 @@ Added API hook inspection support - 07/03/2025 14:30:51
 Improved keyboard hook analysis - 07/03/2025 10:29:52
 Improved threat classification workflow - 07/01/2025 18:07:44
 Improved threat classification workflow - 07/01/2025 19:27:30
+Updated heuristic analysis module - 07/01/2025 12:06:58
