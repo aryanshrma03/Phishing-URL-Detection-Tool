@@ -187,3 +187,4 @@ Improved scanner initialization - 07/04/2025 11:43:19
 Added hidden process detection - 07/04/2025 12:14:22
 Improved real-time threat monitoring - 07/04/2025 21:14:18
 Enhanced background activity scanning - 07/03/2025 22:43:41
+Added API hook inspection support - 07/03/2025 14:30:51
