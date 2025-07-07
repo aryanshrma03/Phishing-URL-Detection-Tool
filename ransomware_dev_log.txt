@@ -245,3 +245,4 @@ Improved detection threshold calibration - 06/24/2025 11:17:21
 Enhanced threat intelligence integration - 06/24/2025 15:38:55
 Enhanced threat intelligence integration - 07/07/2025 12:44:42
 Improved alert notification system - 07/07/2025 15:58:05
+Added suspicious process classifier - 07/07/2025 10:47:33
