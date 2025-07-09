@@ -194,3 +194,4 @@ Improved threat classification workflow - 07/01/2025 19:27:30
 Updated heuristic analysis module - 07/01/2025 12:06:58
 Enhanced background activity scanning - 07/01/2025 18:40:13
 Enhanced detection stability - 07/09/2025 09:48:00
+Added API hook inspection support - 07/09/2025 10:23:55
