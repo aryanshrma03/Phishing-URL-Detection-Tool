@@ -198,3 +198,4 @@ Added API hook inspection support - 07/09/2025 10:23:55
 Added API hook inspection support - 07/09/2025 09:16:20
 Updated process inspection module - 07/10/2025 20:39:00
 Added startup persistence detection - 07/10/2025 22:09:41
+Improved logging functionality - 07/10/2025 19:14:46
