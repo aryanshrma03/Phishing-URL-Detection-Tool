@@ -201,3 +201,4 @@ Added startup persistence detection - 07/10/2025 22:09:41
 Improved logging functionality - 07/10/2025 19:14:46
 Enhanced monitoring dashboard - 07/10/2025 19:31:06
 Enhanced detection stability - 07/14/2025 14:00:10
+Updated system monitoring logic - 07/14/2025 19:25:14
