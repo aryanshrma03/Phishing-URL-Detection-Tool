@@ -219,3 +219,4 @@ Improved system event logging - 07/20/2025 12:33:26
 Added suspicious process monitoring - 07/20/2025 15:46:35
 Updated heuristic analysis module - 07/19/2025 22:10:48
 Updated heuristic analysis module - 07/19/2025 21:52:08
+Added registry persistence analysis - 07/19/2025 12:47:00
