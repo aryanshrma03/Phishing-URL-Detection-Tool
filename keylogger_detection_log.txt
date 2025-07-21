@@ -210,3 +210,4 @@ Added unauthorized keystroke monitoring detection - 07/08/2025 13:09:08
 Improved suspicious behavior analysis - 07/08/2025 13:02:49
 Added stealth keylogger detection - 07/21/2025 13:27:18
 Enhanced background activity scanning - 07/21/2025 21:37:53
+Added registry persistence analysis - 07/21/2025 18:54:41
