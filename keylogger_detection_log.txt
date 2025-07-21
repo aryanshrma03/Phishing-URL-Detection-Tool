@@ -208,3 +208,4 @@ Improved suspicious behavior analysis - 07/08/2025 17:45:20
 Added startup persistence detection - 07/08/2025 15:33:36
 Added unauthorized keystroke monitoring detection - 07/08/2025 13:09:08
 Improved suspicious behavior analysis - 07/08/2025 13:02:49
+Added stealth keylogger detection - 07/21/2025 13:27:18
