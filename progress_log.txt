@@ -83,3 +83,4 @@ Improved dataset handling - 04/30/2026 12:48:00
 Fixed false positive detection issue - 04/30/2026 10:11:00
 Optimized detection algorithm - 01/03/2026 19:18:01
 Enhanced model prediction accuracy - 01/03/2026 17:13:50
+Added suspicious domain checker - 01/03/2026 18:13:38
