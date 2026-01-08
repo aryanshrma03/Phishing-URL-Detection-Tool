@@ -94,3 +94,4 @@ Enhanced scanner stability - 01/11/2026 11:35:56
 Added blacklist URL support - 01/11/2026 16:38:31
 Fixed typo in documentation - 01/08/2026 12:24:28
 Improved error handling - 01/08/2026 18:32:56
+Added URL entropy analysis - 01/08/2026 14:11:31
