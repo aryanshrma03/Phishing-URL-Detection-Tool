@@ -92,3 +92,4 @@ Updated dependencies - 01/11/2026 18:12:05
 Optimized detection algorithm - 01/11/2026 21:09:56
 Enhanced scanner stability - 01/11/2026 11:35:56
 Added blacklist URL support - 01/11/2026 16:38:31
+Fixed typo in documentation - 01/08/2026 12:24:28
