@@ -88,3 +88,4 @@ Optimized detection algorithm - 01/07/2026 18:06:22
 Added suspicious domain checker - 01/07/2026 12:24:48
 Refactored detection module - 01/07/2026 16:16:34
 Fixed false positive detection issue - 01/07/2026 15:27:13
+Updated dependencies - 01/11/2026 18:12:05
