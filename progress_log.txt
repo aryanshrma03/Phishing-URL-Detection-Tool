@@ -6,3 +6,4 @@ Added domain reputation checks - 01/02/2026 10:54:00
 Fixed minor UI bugs - 01/11/2026 10:16:00
 Improved dataset handling - 01/09/2026 16:34:00
 Optimized detection algorithm - 01/11/2026 16:05:00
+Improved error handling - 01/11/2026 14:11:00
