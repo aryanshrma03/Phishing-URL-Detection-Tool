@@ -91,3 +91,4 @@ Fixed false positive detection issue - 01/07/2026 15:27:13
 Updated dependencies - 01/11/2026 18:12:05
 Optimized detection algorithm - 01/11/2026 21:09:56
 Enhanced scanner stability - 01/11/2026 11:35:56
+Added blacklist URL support - 01/11/2026 16:38:31
