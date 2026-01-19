@@ -8,3 +8,4 @@ Improved dataset handling - 01/09/2026 16:34:00
 Optimized detection algorithm - 01/11/2026 16:05:00
 Improved error handling - 01/11/2026 14:11:00
 Updated phishing URL regex patterns - 01/17/2026 21:00:00
+Fixed typo in documentation - 01/19/2026 15:28:00
