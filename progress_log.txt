@@ -99,3 +99,4 @@ Improved detection accuracy - 01/15/2026 13:29:58
 Added export report functionality - 01/15/2026 22:43:37
 Enhanced scanner stability - 01/15/2026 21:20:05
 Added URL normalization - 01/15/2026 12:36:38
+Improved error handling - 01/20/2026 16:42:17
