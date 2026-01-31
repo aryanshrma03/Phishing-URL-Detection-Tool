@@ -113,3 +113,4 @@ Updated dependencies - 02/01/2026 14:08:50
 Fixed minor UI bugs - 02/01/2026 14:02:19
 Updated phishing URL regex patterns - 02/01/2026 21:35:45
 Added export report functionality - 01/31/2026 11:11:58
+Fixed minor UI bugs - 01/31/2026 22:01:50
