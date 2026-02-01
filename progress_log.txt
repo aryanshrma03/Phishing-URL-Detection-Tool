@@ -111,3 +111,4 @@ Optimized detection algorithm - 01/25/2026 13:02:03
 Added export report functionality - 01/25/2026 14:08:34
 Updated dependencies - 02/01/2026 14:08:50
 Fixed minor UI bugs - 02/01/2026 14:02:19
+Updated phishing URL regex patterns - 02/01/2026 21:35:45
