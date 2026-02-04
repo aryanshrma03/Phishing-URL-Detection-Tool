@@ -116,3 +116,4 @@ Added export report functionality - 01/31/2026 11:11:58
 Fixed minor UI bugs - 01/31/2026 22:01:50
 Optimized detection algorithm - 02/04/2026 13:00:15
 Added suspicious domain checker - 02/04/2026 16:47:32
+Optimized scanner initialization - 02/04/2026 12:51:13
