@@ -120,3 +120,4 @@ Optimized scanner initialization - 02/04/2026 12:51:13
 Added blacklist URL support - 02/05/2026 15:26:09
 Fixed typo in documentation - 02/05/2026 18:08:23
 Added URL normalization - 02/05/2026 20:25:21
+Improved detection accuracy - 02/05/2026 22:56:31
