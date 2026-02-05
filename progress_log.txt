@@ -118,3 +118,4 @@ Optimized detection algorithm - 02/04/2026 13:00:15
 Added suspicious domain checker - 02/04/2026 16:47:32
 Optimized scanner initialization - 02/04/2026 12:51:13
 Added blacklist URL support - 02/05/2026 15:26:09
+Fixed typo in documentation - 02/05/2026 18:08:23
