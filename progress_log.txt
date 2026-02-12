@@ -124,3 +124,4 @@ Improved detection accuracy - 02/05/2026 22:56:31
 Improved URL feature extraction - 02/09/2026 22:56:10
 Updated phishing URL regex patterns - 02/09/2026 18:30:33
 Updated dependencies - 02/09/2026 14:54:14
+Improved phishing dataset parser - 02/12/2026 11:07:40
