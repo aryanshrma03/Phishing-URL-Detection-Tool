@@ -130,3 +130,4 @@ Improved terminal output formatting - 02/12/2026 12:29:42
 Improved code structure - 02/12/2026 16:38:19
 Enhanced model prediction accuracy - 02/14/2026 22:51:33
 Added URL normalization - 02/14/2026 19:19:05
+Added suspicious domain checker - 02/23/2026 21:32:16
