@@ -33,3 +33,4 @@ Improved detection accuracy - 02/18/2026 19:47:00
 Added blacklist URL support - 02/18/2026 13:09:00
 Enhanced scanner stability - 02/25/2026 14:47:00
 Added URL normalization - 02/23/2026 13:00:00
+Improved logging system - 02/24/2026 18:48:00
