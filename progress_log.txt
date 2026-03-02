@@ -35,3 +35,4 @@ Enhanced scanner stability - 02/25/2026 14:47:00
 Added URL normalization - 02/23/2026 13:00:00
 Improved logging system - 02/24/2026 18:48:00
 Improved dataset handling - 02/20/2026 21:15:00
+Added URL normalization - 03/02/2026 11:53:00
