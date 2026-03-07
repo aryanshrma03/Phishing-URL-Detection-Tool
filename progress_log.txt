@@ -40,3 +40,4 @@ Added domain reputation checks - 03/03/2026 11:21:00
 Fixed false positive detection issue - 02/28/2026 13:42:00
 Enhanced scanner stability - 02/26/2026 16:56:00
 Improved detection accuracy - 03/01/2026 15:29:00
+Improved error handling - 03/07/2026 15:30:00
