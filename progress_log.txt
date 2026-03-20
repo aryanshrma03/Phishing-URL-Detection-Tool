@@ -154,3 +154,4 @@ Optimized scanner initialization - 03/12/2026 17:56:15
 Optimized detection algorithm - 03/12/2026 22:30:57
 Added blacklist URL support - 03/21/2026 18:15:22
 Updated phishing URL regex patterns - 03/21/2026 20:39:09
+Enhanced GUI responsiveness - 03/20/2026 14:29:30
