@@ -53,3 +53,4 @@ Improved URL feature extraction - 03/19/2026 13:16:00
 Improved error handling - 03/19/2026 21:15:00
 Enhanced GUI responsiveness - 03/22/2026 13:03:00
 Fixed false positive detection issue - 03/20/2026 12:07:00
+Updated phishing URL regex patterns - 03/26/2026 17:28:00
