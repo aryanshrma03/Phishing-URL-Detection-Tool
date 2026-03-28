@@ -56,3 +56,4 @@ Fixed false positive detection issue - 03/20/2026 12:07:00
 Updated phishing URL regex patterns - 03/26/2026 17:28:00
 Updated README documentation - 04/01/2026 19:42:00
 Fixed minor UI bugs - 04/01/2026 12:27:00
+Added blacklist URL support - 03/28/2026 17:05:00
