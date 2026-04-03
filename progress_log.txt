@@ -60,3 +60,4 @@ Added blacklist URL support - 03/28/2026 17:05:00
 Added heuristic detection rules - 04/01/2026 17:05:00
 Added blacklist URL support - 04/06/2026 10:56:00
 Improved URL feature extraction - 04/06/2026 21:03:00
+Improved code structure - 04/03/2026 11:45:00
