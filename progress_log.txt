@@ -58,3 +58,4 @@ Updated README documentation - 04/01/2026 19:42:00
 Fixed minor UI bugs - 04/01/2026 12:27:00
 Added blacklist URL support - 03/28/2026 17:05:00
 Added heuristic detection rules - 04/01/2026 17:05:00
+Added blacklist URL support - 04/06/2026 10:56:00
