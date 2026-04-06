@@ -168,3 +168,4 @@ Added export report functionality - 04/04/2026 21:10:19
 Added blacklist URL support - 04/04/2026 16:15:44
 Enhanced scanning performance - 04/06/2026 15:29:58
 Enhanced scanner stability - 04/06/2026 12:48:18
+Improved dataset handling - 04/06/2026 14:13:37
