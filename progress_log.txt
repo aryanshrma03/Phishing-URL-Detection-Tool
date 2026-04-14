@@ -64,3 +64,4 @@ Improved code structure - 04/03/2026 11:45:00
 Updated README documentation - 04/04/2026 19:14:00
 Fixed minor UI bugs - 04/02/2026 21:45:00
 Added heuristic detection rules - 04/11/2026 10:56:00
+Added domain reputation checks - 04/14/2026 19:08:00
