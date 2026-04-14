@@ -170,3 +170,4 @@ Enhanced scanning performance - 04/06/2026 15:29:58
 Enhanced scanner stability - 04/06/2026 12:48:18
 Improved dataset handling - 04/06/2026 14:13:37
 Improved logging system - 04/06/2026 14:55:56
+Updated phishing URL regex patterns - 04/14/2026 19:33:00
