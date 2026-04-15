@@ -66,3 +66,4 @@ Fixed minor UI bugs - 04/02/2026 21:45:00
 Added heuristic detection rules - 04/11/2026 10:56:00
 Added domain reputation checks - 04/14/2026 19:08:00
 Fixed typo in documentation - 04/11/2026 13:54:00
+Enhanced result formatting - 04/15/2026 13:32:00
