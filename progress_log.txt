@@ -183,3 +183,4 @@ Added blacklist URL support - 04/21/2026 15:35:40
 Improved phishing dataset parser - 04/21/2026 20:02:33
 Enhanced scanning performance - 04/20/2026 18:29:05
 Improved dataset handling - 04/20/2026 17:50:42
+Fixed minor UI bugs - 04/16/2026 11:25:23
