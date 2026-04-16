@@ -69,3 +69,4 @@ Fixed typo in documentation - 04/11/2026 13:54:00
 Enhanced result formatting - 04/15/2026 13:32:00
 Enhanced scanning performance - 04/13/2026 19:51:00
 Improved URL feature extraction - 04/20/2026 15:32:00
+Added blacklist URL support - 04/16/2026 19:28:00
