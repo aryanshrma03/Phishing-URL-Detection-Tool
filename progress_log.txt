@@ -71,3 +71,4 @@ Enhanced scanning performance - 04/13/2026 19:51:00
 Improved URL feature extraction - 04/20/2026 15:32:00
 Added blacklist URL support - 04/16/2026 19:28:00
 Added blacklist URL support - 04/20/2026 12:04:00
+Added suspicious domain checker - 04/16/2026 10:43:00
