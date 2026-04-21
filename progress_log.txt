@@ -178,3 +178,4 @@ Fixed false positive detection issue - 04/11/2026 21:00:29
 Updated phishing URL regex patterns - 04/11/2026 17:32:34
 Added suspicious domain checker - 04/11/2026 11:41:16
 Added URL normalization - 04/13/2026 15:02:30
+Added domain reputation checks - 04/21/2026 16:15:53
