@@ -179,3 +179,4 @@ Updated phishing URL regex patterns - 04/11/2026 17:32:34
 Added suspicious domain checker - 04/11/2026 11:41:16
 Added URL normalization - 04/13/2026 15:02:30
 Added domain reputation checks - 04/21/2026 16:15:53
+Added blacklist URL support - 04/21/2026 15:35:40
