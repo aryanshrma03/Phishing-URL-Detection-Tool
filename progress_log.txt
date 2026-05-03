@@ -191,3 +191,4 @@ Updated dependencies - 04/23/2026 15:12:27
 Improved dataset handling - 04/27/2026 21:40:08
 Enhanced result formatting - 04/27/2026 17:56:04
 Improved terminal output formatting - 04/27/2026 21:48:53
+Improved detection accuracy - 05/03/2026 18:15:29
