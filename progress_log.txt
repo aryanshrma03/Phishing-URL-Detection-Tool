@@ -78,3 +78,4 @@ Enhanced result formatting - 04/24/2026 13:57:00
 Added suspicious domain checker - 04/27/2026 21:31:00
 Fixed typo in documentation - 04/28/2026 11:15:00
 Enhanced result formatting - 05/01/2026 18:10:00
+Improved logging system - 05/04/2026 19:43:00
